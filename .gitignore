@@ -1,0 +1,31 @@
+# Build directories
+build/
+build-debug/
+build-release/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+Testing/
+
+# Executables and libraries
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.o
+*.obj
+
+# IDE and editor files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Temporary files
+tempCodeRunnerFile.cpp
+*.tmp
